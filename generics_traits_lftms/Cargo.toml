@@ -1,0 +1,7 @@
+[package]
+name = "generics_traits_lftms"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aggregator = {path = "/Users/gd-npc-775/Personal/learn-rust/aggregator"}
